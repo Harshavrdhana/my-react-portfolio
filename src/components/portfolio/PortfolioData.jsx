@@ -8,20 +8,20 @@ export default [
         image: IMG1,
         title: "Quizzical App",
         github: "https://github.com/Harshavrdhana/quizzical-app",
-        demo: "https://playful-lollipop-59b393.netlify.app/"
+        demo: "https://quizzical-vardhan.netlify.app/"
       },
       {
         id: 2,
         image: IMG2,
         title: "React Ecommerce App",
         github: "https://github.com/Harshavrdhana/react-ecommerce-app",
-        demo: "https://transcendent-kleicha-0c4ea3.netlify.app/"
+        demo: "https://ecommerce-vardhan.netlify.app/"
       },
       {
         id: 3,
         image: IMG3,
         title: "My React Portfolio",
         github: "https://github.com/Harshavrdhana/my-react-portfolio",
-        demo: "https://github.com"
+        demo: "https://harshavardhana.netlify.app/"
       }
     ]
