@@ -1,6 +1,6 @@
 import React from 'react'
-import "./testimonials.css"
-import data from "./TestimonialsData"
+import "./inspiration.css"
+import data from "./InspirationData"
 import { Navigation, Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles
@@ -27,8 +27,8 @@ const Testimonials = () => {
   )
   return (
     <section id=" testimonial">
-      <h5>Review from clients</h5>
-      <h2>Testimonials</h2>
+      <h5>My Heroes</h5>
+      <h2>Inspiration</h2>
       <Swiper className='container testimonials_container'
         // install Swiper modules
         modules={[Pagination]}
