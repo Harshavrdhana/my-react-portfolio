@@ -26,7 +26,7 @@ const Testimonials = () => {
     ))
   )
   return (
-    <section id=" testimonial">
+    <section id="testimonial">
       <h5>My Heroes</h5>
       <h2>Inspiration</h2>
       <Swiper className='container testimonials_container'
