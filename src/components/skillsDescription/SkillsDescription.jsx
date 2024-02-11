@@ -11,7 +11,7 @@ function SkillsDescription() {
       <div className="container services_container">
         <article className="service">
           <div className="service_head">
-            <h3>HTML and CSS</h3>
+            <h3>HTML and Tailwind CSS</h3>
           </div>
           <ul className="service_list">
             <li>
@@ -32,19 +32,19 @@ function SkillsDescription() {
             </li>
             <li>
               <BiCheck className="service_list-icon"/>
-              <p>CSS Selectors, Box Model, Flexbox, Transforms</p>
+              <p>Tailwind utility classes, Responsive design</p>
             </li>
             <li>
               <BiCheck className="service_list-icon"/>
-              <p>CSS Grid, Responsive Design(@media), Positioning</p>
+              <p>Flexbox and Grid, Spacing utilities, Colors</p>
             </li>
             <li>
               <BiCheck className="service_list-icon"/>
-              <p>CSS Transitions, Variables(Custom Properties)</p>
+              <p>Responsive visibility, Customization, Hover</p>
             </li>
             <li>
               <BiCheck className="service_list-icon"/>
-              <p>CSS Pseudo-classes</p>
+              <p>Focus, Optimization</p>
             </li>
           </ul>
         </article>
